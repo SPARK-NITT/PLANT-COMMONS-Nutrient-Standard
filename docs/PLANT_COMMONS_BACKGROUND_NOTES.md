@@ -90,4 +90,48 @@ Because of its:
 - high protein content, and  
 - suitability for controlled aquatic systems,
 
-Wolffia globosa has been investigated as a c
+Wolffia globosa has been investigated as a candidate crop for **space agriculture and bioregenerative life support systems** (e.g., ESA and NASA-linked studies on altered gravity and closed-loop phytoremediation units). :contentReference[oaicite:11]{index=11}  
+
+For PLANT-COMMONS, the main point is not the space story; it is the **contrast**:
+
+- A plant interesting enough for space agencies to study as a closed-loop food + water-cleanup candidate  
+- can simultaneously be treated as **pond scum or a nuisance** in public-facing narratives on Earth.
+
+That gap—between what the species can do and how it is framed—is exactly the kind of structural distortion this standard is meant to surface.
+
+---
+
+## Cyperus esculentus (Chufa / Tiger Nut)
+
+- Sedge with edible tubers used historically across multiple regions.
+- Tubers contain fats, carbohydrates, fiber, and some protein.
+- Used for snacks, beverages (e.g., horchata), flours, and oil.
+- Frequently classified as a weed or invasive in industrial systems while being a valued food crop in others.
+
+Key idea: the same species should not be treated as trash in one context and luxury health food in another without honest explanation.
+
+---
+
+## Moringa oleifera (Moringa / “Miracle Tree”)
+
+- Drought-hardy tree used widely in traditional diets.
+- Leaves and pods contain vitamins, minerals, and protein.
+- Modern work highlights potential health benefits; safe use still depends on dose, preparation, and context.
+- Often promoted as a “miracle” product in supplement markets while communities that have always used it receive little structural support.
+
+Key idea: Moringa is not a magic cure, but it is a robust, locally propagated nutrition source that deserves infrastructure support, not only glossy marketing.
+
+---
+
+## Structural Patterns to Watch
+
+The plants above illustrate a broader pattern:
+
+- Nutrient-dense, locally manageable plants are under-researched compared to highly profitable products.
+- Weed and nuisance labels can be applied in ways that discourage local food autonomy.
+- “Superfood” branding can erase the people and practices that carried these plants through time.
+- Industrial input cycles (fertilizers, herbicides, proprietary formulations) can create recurring markets that treat freely-growing plants as problems rather than assets.
+
+PLANT-COMMONS does not romanticize plants or deny ecological risk.  
+It demands that risk and benefit be evaluated honestly, in the open, with food security and sovereignty on the same page as invasive-species checklists and commercial interests.
+
