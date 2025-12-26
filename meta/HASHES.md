@@ -1,22 +1,18 @@
-\# PLANT-COMMONS — Hashes
-
-
+# PLANT-COMMONS — Hashes
 
 This file records SHA-256 hashes for canonical PLANT-COMMONS documents.
 
+## Canonical documents
 
+- `docs/PLANT_COMMONS_GOVERNANCE_v1.0.md`
+- `docs/PLANT_COMMONS_BACKGROUND_NOTES.md`
 
-\## Canonical documents
+## Hash batches
 
+### Batch v1.0 — 2025-12-26
 
+- `docs/PLANT_COMMONS_GOVERNANCE_v1.0.md`  
+  SHA-256: `352FF662632E4728803D545332B9E8DF461FA3A3DADA94CBC3101F31F71370E2`
 
-\- `docs/PLANT\_COMMONS\_GOVERNANCE\_v1.0.md`
-
-\- `docs/PLANT\_COMMONS\_BACKGROUND\_NOTES.md`
-
-
-
-\## Hash batches
-
-
-
+- `docs/PLANT_COMMONS_BACKGROUND_NOTES.md`  
+  SHA-256: `FC5EE2F4E4D54894FA32CF5CBD91D26D10DB80307112729F9234EA14183AAE90`
