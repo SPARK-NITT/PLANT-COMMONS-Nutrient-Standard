@@ -101,9 +101,12 @@ This standard can be cited anywhere you need a clear sentence that says:
 
 ## License
 
-Unless noted otherwise:
+Unless otherwise stated:
 
-- Text in this repo is under **CC BY 4.0**.  
-- Any code or scripts (if added later) are under **MIT**.
+- **Textual content** in this repository (including the IRST Overview, Origin Statement,
+  Governance Charter, and Operational Enforcement spec) is licensed under
+  **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.
+- Any future **code snippets or helper scripts** in this repo are governed by the same
+  **CC BY-ND 4.0** terms unless explicitly noted otherwise.
 
-If you reuse or build on this work, credit “Spark (SPARK-NITT)” and do not present partial adherence as full compliance with PLANT-COMMONS.
+
